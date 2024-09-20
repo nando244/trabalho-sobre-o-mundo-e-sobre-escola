@@ -1,0 +1,19 @@
+{
+  "jogos": {
+    "mais_jogado_mundo": "Minecraft",
+    "mais_jogado_escola": "Among Us"
+  }
+}
+{
+    "pesquisas": {
+      "Minecraft": {
+        "participantes_estimados": "milhões",
+        "metodologia": "amostra representativa"
+      },
+      "Among Us": {
+        "participantes_estimados": "milhões",
+        "metodologia": "grupos escolares"
+      }
+    }
+  }
+  
