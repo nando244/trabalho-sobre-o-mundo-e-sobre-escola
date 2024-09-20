@@ -1,19 +1,46 @@
 {
   "jogos": {
-    "mais_jogado_mundo": "Minecraft",
-    "mais_jogado_escola": "Among Us"
-  }
-}
-{
-    "pesquisas": {
-      "Minecraft": {
-        "participantes_estimados": "milhões",
-        "metodologia": "amostra representativa"
+    "mais_jogado_mundo": {
+      "nome": "Minecraft",
+      "lancamento": "2011",
+      "plataformas": ["PC", "Console", "Mobile"],
+      "jogadores_ativos_estimados": "200 milhões",
+      "popularidade": "extensa",
+      "receita_estimada": "3 bilhões de dólares",
+      "comunidade": {
+        "modding": true,
+        "eventos": ["Minecon", "competitions"]
       },
-      "Among Us": {
-        "participantes_estimados": "milhões",
-        "metodologia": "grupos escolares"
-      }
+      "mecanicas": "Construção, exploração, sobrevivência e criatividade",
+      "impacto_cultural": "Inspiração para educadores e criadores de conteúdo"
+    },
+    "mais_jogado_escola": {
+      "nome": "Among Us",
+      "lancamento": "2018",
+      "plataformas": ["PC", "Console", "Mobile"],
+      "jogadores_ativos_estimados": "500 milhões",
+      "popularidade": "alta",
+      "receita_estimada": "100 milhões de dólares",
+      "comunidade": {
+        "modding": false,
+        "eventos": ["tournaments", "community nights"]
+      },
+      "mecanicas": "Dedução social e trabalho em equipe",
+      "impacto_cultural": "Famoso por popularizar jogos de dedução em grupo"
+    }
+  },
+  "pesquisas": {
+    "Minecraft": {
+      "participantes_estimados": "5000",
+      "metodologia": "amostra representativa",
+      "data": "2023",
+      "faixa_etaria": "8-35 anos"
+    },
+    "Among Us": {
+      "participantes_estimados": "3000",
+      "metodologia": "grupos escolares",
+      "data": "2023",
+      "faixa_etaria": "6-18 anos"
     }
   }
-  
+}
